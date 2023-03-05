@@ -5,7 +5,6 @@
 [![Hotmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://outlook.live.com/mail/0/)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/28999659161)
 
 ![Jhonatan Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanCarllos&show_icons=true&theme=radical)
-[![skils](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanCarllos)](https://github.com/JhonatanCarllos/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia ✍️
 
